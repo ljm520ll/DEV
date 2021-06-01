@@ -1,0 +1,5 @@
+git config --global user.name "ljm520ll"
+
+git config --global user.email "962319828@qq.com"
+
+git clone https://github.com/ljm520ll/DEV.git
